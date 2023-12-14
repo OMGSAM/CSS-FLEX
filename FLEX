@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+     
+     .container{
+        border-radius: 30px;
+         width: 100%;
+         flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        display: flex;
+      }
+    .X{
+        margin-top: 200px;
+        text-align: center;
+        border-radius: 20px;
+         width: 420px;
+         height: 400px;
+         font-size: 40px;
+         height: 300px;
+        background :linear-gradient(rgb(230, 207, 4),rgb(1, 1, 2))  
+     }
+    
+    
+    .W{
+        text-align: center;
+        font-size: 120px;
+        width: 1350px;
+        height: 200px;
+        background-color: brown;
+        position: absolute;
+        top: 0;
+    }
+</style>
+<body>
+    <div class="container">
+        <div class="W">YELLOW </div>
+
+        <div class="X">
+            AMINOX
+        </div>
+
+         <div class="X">LOUBNA</div>
+        <div class="X">DYBALA</div>
+
+</div>
+ 
+</body>
+</html>
